@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seola Won</h1>
-
+<img src="C:\Users\user\Desktop\cats">
 
 <br>
             <h2 align="center">🌼 My Skills 🌼</h2>
