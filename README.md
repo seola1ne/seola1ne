@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
   <h3>🌼 My Skills 🌼</h3>
-  <img src=""/>
+  <img src="">
  </div>
  
  <div>
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  </div>
  
  <div>
-  <img src="https://github.com/gjbae1212/hit-counter"/>
+  <img src="https://github.com/gjbae1212/hit-counter">
  </div>
  
  <br>
