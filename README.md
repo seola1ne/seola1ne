@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Seola's github stats](https://github-readme-stats.vercel.app/api?username=seola1ne&show_icons=true)
+[![Seola's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seola1ne&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seola1ne)
