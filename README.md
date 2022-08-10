@@ -32,8 +32,6 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seola1ne&show_icons=true&locale=en&layout=compact" alt="seola1ne" /></p>
 
-<h3 align="center">Connect with me</h3>
-<p align="left">
-<a href="https://instagram.com/seo1a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seo1a_" height="30" width="40" /></a>
-<h4>📧 My mail : seola1ne@gmail.com 📧</h4>
+<h2 align="center">Contact</h2>
+<h3 align="center">📧 My mail : seola1ne@gmail.com 📧</h3>
 </p>
