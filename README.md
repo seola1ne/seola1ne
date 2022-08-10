@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Seola Won!</h1>
-<img align="center" src="https://i.pinimg.com/564x/70/a4/27/70a427e7468da569a84f52d903c112b5.jpg" align="center">
+
+            <p align="center">
+           <img align="center" src="https://i.pinimg.com/564x/70/a4/27/70a427e7468da569a84f52d903c112b5.jpg" align="center">
+            </p>
 
 <br>
             <h2 align="center">🌼 My Skills 🌼</h2>
