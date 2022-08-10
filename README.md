@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Seola Won!</h1>
 <p align="center">
-<img src="https://i.pinimg.com/564x/5b/85/e8/5b85e8a286f1a95e8ad645d5d29acab3.jpg" align="center">
+<img src="https://i.pinimg.com/564x/8e/5d/db/8e5ddbe5927f792a8371048415e832ba.jpg" align="center">
 </p>
 
 <br>
