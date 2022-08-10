@@ -33,6 +33,6 @@
 <br>
 
 <h2 align="center">✉ Contact ✉</h2>
-<h3 align="center">My mail : seola1ne@gmail.com</h3>
+<h3 align="center">Mail : seola1ne@gmail.com</h3>
 <h3 align="center">Instagram ID : seo1a_</h3>
 </p>
