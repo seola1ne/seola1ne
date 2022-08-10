@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Seola Won!</h1>
 
-            <p align="center">
-           <img align="center" src="https://i.pinimg.com/564x/70/a4/27/70a427e7468da569a84f52d903c112b5.jpg" align="center">
-            </p>
+<p align="center">
+<img align="center" src="https://i.pinimg.com/564x/70/a4/27/70a427e7468da569a84f52d903c112b5.jpg" align="center">
+</p>
 
 <br>
             <h2 align="center">🌼 My Skills 🌼</h2>
@@ -32,4 +32,5 @@
 
 <h2 align="center">✉ Contact ✉</h2>
 <h3 align="center">My mail : seola1ne@gmail.com</h3>
+<h3 align="center">Instagram ID : seo1a_</h3>
 </p>
