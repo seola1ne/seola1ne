@@ -30,8 +30,6 @@
 
 <br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seola1ne&show_icons=true&locale=en&layout=compact" alt="seola1ne" /></p>
-
 <h2 align="center">✉ Contact ✉</h2>
 <h3 align="center">My mail : seola1ne@gmail.com</h3>
 </p>
