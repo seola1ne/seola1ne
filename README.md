@@ -33,8 +33,6 @@
 <br>
 
 <h2 align="center">✉ Contact ✉</h2>
-<a href="https://www.instagram.com/seo1a_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/>
-<a herf="seola1ne@gmail.com"><img src="https://img.shields.io/badge/seola1ne@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 <h3 align="center">Mail : seola1ne@gmail.com</h3>
 <h3 align="center">Instagram ID : seo1a_</h3>
 </p>
