@@ -19,11 +19,7 @@
             <h2 align="center">🌱 Studying 🌱</h2>
             <p align="center">
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<!--             <h2 align="center">🌱 Studying 🌱</h2>
-            <p align="center">
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> -->
-            
+     
 <br>
             <h2 align="center">☀ I've Used ☀</h2>
             <p align="center"> 
@@ -32,3 +28,5 @@
             <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
             <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seola1ne&show_icons=true&locale=en&layout=compact" alt="seola1ne" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seola1ne&show_icons=true&locale=en" alt="seola1ne" /></p>
