@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seola Won!</h1>
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseola1ne%2Fhit-counter&count_bg=%23465ACE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+
 <p align="center">
 <img align="center" src="https://i.pinimg.com/564x/70/a4/27/70a427e7468da569a84f52d903c112b5.jpg" align="center">
 </p>
